@@ -8,13 +8,7 @@ I'm currently studying Computer Engineering. I'm always eager to learn new techn
 
 &ensp;![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python)&ensp;![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java)&ensp;![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL)
 
-:musical_note: I'm currently listening:
-
-[![My Spotify](https://spotify-currently-playing-track.vercel.app/api?user=polohgg)](https://open.spotify.com/user/polohgg)
 
 Last Edited on: 19/07/2025
 
 
-
-
-Credit: [regchiu](https://github.com/regchiu)
