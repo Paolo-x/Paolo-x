@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Paolo-x&color=blueviolet&style=flat-square)
 
-I'm currently studying Computer Engineering. I'm always eager to learn new technologies and improve my skills in software development.
+I'm currently studying Computer Engineering.
 
 🌱 I'm currently learning:
 
