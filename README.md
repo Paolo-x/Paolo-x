@@ -1,16 +1,18 @@
-## Hi there 👋
+:wave: Hi! I'm Paolo. 
 
-<!--
-**Paolo-x/Paolo-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=Paolo-x&color=blueviolet&style=flat-square)
 
-Here are some ideas to get you started:
+I'm currently studying Computer Engineering. I'm always eager to learn new technologies and improve my skills in software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm currently learning:
+
+&ensp;![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python)&ensp;![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java)&ensp;![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL)
+
+:musical_note: I'm currently listening:
+
+[![My Spotify](https://spotify-currently-playing-track.vercel.app/api?user=polohgg)](https://open.spotify.com/user/polohgg)
+
+
+Credit: [regchiu](https://github.com/regchiu)
+
+Last Edited on: 19/07/2025
