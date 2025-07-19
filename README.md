@@ -9,6 +9,7 @@ I'm currently studying Computer Engineering. I'm always eager to learn new techn
 &ensp;![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python)&ensp;![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java)&ensp;![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL)
 
 
+
 Last Edited on: 19/07/2025
 
 
