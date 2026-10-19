@@ -1,11 +1,7 @@
-<!-- BANNER -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Paolo&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student&descSize=18&descAlignY=55" width="100%"/>
 
 # 👋 Hi, I'm Paolo!
 
-### 💻 Computer Engineering Student | Aspiring Software Developer
+### 💻 Computer Engineering Student |
 
 *Learning, building, and improving one line of code at a time.* 🚀
 
