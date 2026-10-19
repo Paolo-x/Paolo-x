@@ -1,10 +1,4 @@
 
-<div align="center">
-
-<!-- VHS HORROR BANNER -->
-<img src="./banner_vhs_paolo.png" width="100%" alt="Paolo - Retro Horror VHS"/>
-
-<br>
 
 # Paolo
 
