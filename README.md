@@ -3,8 +3,6 @@
 
 ### 💻 Computer Engineering Student |
 
-*Learning, building, and improving one line of code at a time.* 🚀
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Paolo-x&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
