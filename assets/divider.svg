@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 40" width="1200" height="40" xmlns:c2pa="http://c2pa.org/manifest">
+<defs>
+  <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#53677b" stop-opacity="0"/><stop offset=".25" stop-color="#53677b"/><stop offset=".5" stop-color="#b51f2b"/><stop offset=".75" stop-color="#7d1118"/><stop offset="1" stop-color="#7d1118" stop-opacity="0"/></linearGradient>
+  <filter id="gl"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="40" y="19" width="1120" height="3" fill="url(#g)" filter="url(#gl)"/>
+<rect x="40" y="26" width="1120" height="1" fill="url(#g)" opacity=".5"/>
+<g filter="url(#gl)">
+  <polygon points="600,6 614,20 600,34 586,20" fill="#b51f2b"><animate attributeName="opacity" values="1;.35;1" dur="2s" repeatCount="indefinite"/></polygon>
+  <polygon points="560,14 568,20 560,26 552,20" fill="#53677b"/>
+  <polygon points="640,14 648,20 640,26 632,20" fill="#53677b"/>
+</g>
+</svg>
